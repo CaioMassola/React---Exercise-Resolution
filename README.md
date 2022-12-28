@@ -3,7 +3,7 @@
 ## React Interview Challenge #02
 
 Olá Dev, tudo bem? Trouxe a minha resolução para o desafio proposto pelo 
-##fernandev!
+#fernandev!
 
 Desafio em React!
 
