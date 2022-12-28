@@ -80,7 +80,7 @@ export default function LoginForm() {
             value={password} 
             placeholder={'Password...'} 
             onChange={(x) => handlePassword(x)}
-          />
+            />
         </div>
 
         <div className='button'>
