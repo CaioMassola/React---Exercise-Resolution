@@ -1,6 +1,6 @@
 # Caio Massola
 
-## React Interview Challenge #02
+## React Interview Challenge 
 
 Olá Dev, tudo bem? Trouxe a minha resolução para o desafio proposto pelo 
 #fernandev!
